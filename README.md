@@ -1,4 +1,4 @@
-# Flower-Recognization
+# Flower-Recognition
 
 The dataset I am using here for the flower recognition task contains 4242 flower images. Data collection is based on Flickr data, google images, Yandex images. You can use this data set to recognize the flowers in the photo.
 
